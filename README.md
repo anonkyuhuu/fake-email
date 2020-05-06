@@ -1,7 +1,7 @@
 ![SKRINSUT](ss.jpg)
 ## Fake Email
 * [Featurs](#featurs)
-* [Installation](#installlation)
+* [Installation](#installation)
 * [Chat Admin](#chat-admin)
 
 ## Featurs
